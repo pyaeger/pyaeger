@@ -4,7 +4,7 @@ Public-sector solution architect and Smartsheet Control Center lead at Louisvill
 
 **Work, in one line:** the part of AI delivery where a working demo meets real policy, real records and real people.
 
-**Independent project:** [MyFrontierAI](https://myfrontierai.com), a governed local-first AI environment with a public [Constitution](https://myfrontierai.com/constitution.html) (CC BY-SA 4.0). Repository: `pyaeger/frontier-constitution`.
+**Independent project:** [MyFrontierAI](https://myfrontierai.com), a governed local-first AI environment with a public [Constitution](https://myfrontierai.com/constitution.html) (CC BY-SA 4.0).
 
 **Professional site:** [patrickyaeger.com](https://patrickyaeger.com)
 
