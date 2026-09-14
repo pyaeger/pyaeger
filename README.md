@@ -10,7 +10,7 @@ Public-sector solution architect and Smartsheet Control Center lead at Louisvill
 
 **Professional site:** [PatrickYaeger.com](https://patrickyaeger.com)
 
-**Here on GitHub:** source for my professional and Frontier websites, alongside historical software-development and data-analysis training work. During my 2022 Revature training, I contributed to collaborative team projects using GitHub and pull requests, including [Leafbound](https://github.com/Revature-Leafbound/Leafbound?tab=readme-ov-file).
+**Here on GitHub:** source for my professional and Frontier websites, alongside historical software-development and data-analysis training work. During my 2022 Revature training, I contributed to collaborative team projects using GitHub and pull requests, including the [Leafbound](https://github.com/Revature-Leafbound/Leafbound?tab=readme-ov-file) e-commerce platform.
 
 Louisville, Kentucky. Views here are my own and not my employer's.
 
