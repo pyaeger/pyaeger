@@ -10,11 +10,7 @@ Public-sector solution architect and Smartsheet Control Center lead at Louisvill
 
 **Professional site:** [PatrickYaeger.com](https://patrickyaeger.com)
 
-**Here on GitHub:** small, self-contained tools, each built for one person and one real problem — an offline help guide in Spanish, a Kentucky trades planner, a navigation trainer, and a festival guide that marks every date confirmed or projected.
-
-Each is a single page you install to a home screen. No accounts, no analytics, no backend. Two of the four work offline; one loads its typefaces from Google; the rest make no external request at all. Those distinctions live in the repositories rather than getting smoothed over here.
-
-Whatever a tool claims, its repository carries the evidence — including the claims that turned out to be wrong.
+Whatever a tool claims, its repository carries the evidence, including the claims that turned out to be wrong.
 
 Built with AI assistance. Claims verified and documented.
 
