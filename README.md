@@ -6,6 +6,8 @@ Public-sector solution architect and Smartsheet Control Center lead at Louisvill
 
 **Independent project:** [MyFrontierAI.com](https://myfrontierai.com), a governed local-first AI environment with a public [Constitution](https://myfrontierai.com/constitution.html) (CC BY-SA 4.0).
 
+**First story:** [A Divining Rod for the Latent](https://myfrontierai.com/divining-rod.html) opens a series on building Frontier with Claude, told from preserved records with the corrections kept in.
+
 **Fork the Constitution:** [Frontier Constitution](https://github.com/pyaeger/frontier-constitution) publishes the unchanged v1.0 charter, its license and version history, with guidance for independent adaptations and proposed improvements. My private knowledge system remains my governing source; a charter is not proof of runtime enforcement.
 
 **Professional site:** [PatrickYaeger.com](https://patrickyaeger.com)
